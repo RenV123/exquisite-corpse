@@ -4,7 +4,7 @@ There were onces three dwarves who lived in a magical forest.
 They ate mushrooms and fireflies which made them glow bright blue in the dark.
 One day a big giant visited their town and made them hide in the homes under the ground.
 The gaint asked the dwarfs to come to him every night with loads of mushrooms.
-The big gaint started eating the mushrooms as well as the dwarfs.
+The big gaint started eating the mushrooms as well as the dwarfs.<br><br>
 The dwarfs planned together to get down the giant.
 Tired from gathering mushrooms all day for the giant and feeling hungry they gathered
 at the home of Gloin the oldest and wisest Dwarf. Gloin had a very large beard and white glass like
