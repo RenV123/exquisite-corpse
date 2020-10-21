@@ -10,3 +10,8 @@ Tired from gathering mushrooms all day for the giant and feeling hungry they gat
 at the home of Gloin the oldest and wisest Dwarf. Gloin had a very large beard and white glass like
 eyes. Gloin told the other dwarves that to get rid of the giant they would have to brew a potion that will make 
 the giant shrink.
+<br><br>
+The big giant was waiting for his food that night. 
+The dwarfs were running late to make the potion. 
+They were in panic about the night. 
+One among the young dwarf volunteered to entertain the gaint until the potion is ready.
