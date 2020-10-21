@@ -1,8 +1,8 @@
 # exquisite-corpse
 
-There were onces three dwarves who lived in a magical forest.
-They ate mushrooms and fireflies which made them glow bright blue in the dark.
-One day a big giant visited their town and made them hide in the homes under the ground.
+There were once three dwarves who lived in a dark magical forest.
+They ate mushrooms and fireflies which made them glow bright yellow in the dark.
+One day a giant visited their town and made them hide in the homes under the ground.
 The gaint asked the dwarfs to come to him every night with loads of mushrooms.
 The big gaint started eating the mushrooms as well as the dwarfs.<br><br>
 The dwarfs planned together to get down the giant.
