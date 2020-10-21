@@ -1,6 +1,6 @@
 # exquisite-corpse
 
-There were onces three dwarves who lived in a magical forest.
+There were onces three dwarves who lived in a magical forest where they could wish for anything they want. They wished to have a big farm of mushrooms.
 They ate mushrooms and fireflies which made them glow bright blue in the dark.
 One day a big giant visited their town and made them hide in the homes under the ground.
 The gaint asked the dwarfs to come to him every night with loads of mushrooms.
